@@ -1,0 +1,24 @@
+*{
+    background-color: black;
+    color: white;
+}
+.container{
+    width: 80vw;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    overflow: hidden;
+}
+
+input{
+    margin: 10px;
+}
+button{
+    margin: 10px;
+    height: 45px;
+    width: 125px;
+}
+button:hover{
+    background-color: white;
+    color: black;
+}
